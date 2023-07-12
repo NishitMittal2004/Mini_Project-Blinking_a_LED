@@ -1,1 +1,1 @@
-# Mini_Project-Blinking_a_LED
+# Mini Project - Blinking a LED
